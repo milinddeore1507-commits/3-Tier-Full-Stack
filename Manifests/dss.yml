@@ -5,12 +5,12 @@ metadata:
   name: yelp-camp-secrets
 type: Opaque
 data:
-  CLOUDINARY_CLOUD_NAME: bW9xem8zZ3gK
-  CLOUDINARY_KEY: NTEyOTI2NzE4MjcxNzIyCg==
-  CLOUDINARY_SECRET: RXVPam5nMThDTHh5RWw5Q2NhQTZMMzAyWHJVCg==
-  MAPBOX_TOKEN: cGsuZXlKMUlqb2liV2xzYVc1a0xXUmxiM0psSWl3aVlTSTZJbU50ZG0xbFpuWTRPREExTVdneWVIQnNObTFqZEdWdmNITWlmUS5hYU5jejdKb1lIUlpRU1ByTjlHaUNRCg==
-  DB_URL: bW9uZ29kYitzcnY6Ly9taWxpbmRkZW9yZTE1MDdfZGJfdXNlcjpYMUdUOThGZjdLa3NCbTJhQG1pbGluZC1kZW9yZS5ueHdqbXh6Lm1vbmdvZGIubmV0L3llbHBjYW1wP3JldHJ5V3JpdGVzPXRydWUmdz1tYWpvcml0eSZhcHBOYW1lPW1pbGluZC1kZW9yZQo=
-  SECRET: ZGV2b3Bzc2hhY2sK
+  CLOUDINARY_CLOUD_NAME: moqzo3gx
+  CLOUDINARY_KEY: 512926718271722
+  CLOUDINARY_SECRET: EuOjng18CLxyEl9CcaA6L302XrU
+  MAPBOX_TOKEN: pk.eyJ1IjoibWlsaW5kLWRlb3JlIiwiYSI6ImNtdm1lZnY4ODA1MWgyeHBsNm1jdGVvcHMifQ.aaNcz7JoYHRZQSPrN9GiCQ
+  DB_URL: 'mongodb+srv://milinddeore1507_db_user:X1GT98Ff7KksBm2a@milind-deore.nxwjmxz.mongodb.net/yelpcamp?retryWrites=true&w=majority&appName=milind-deore'
+  SECRET: devopsshack
 
 ---
 apiVersion: apps/v1
