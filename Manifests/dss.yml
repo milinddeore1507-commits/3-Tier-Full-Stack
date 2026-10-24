@@ -5,11 +5,11 @@ metadata:
   name: yelp-camp-secrets
 type: Opaque
 data:
-  CLOUDINARY_CLOUD_NAME: "moqzo3gx"
-  CLOUDINARY_KEY: "512926718271722"
-  CLOUDINARY_SECRET: "EuOjng18CLxyEl9CcaA6L302XrU"
-  MAPBOX_TOKEN: "pk.eyJ1IjoibWlsaW5kLWRlb3JlIiwiYSI6ImNtdm1lZnY4ODA1MWgyeHBsNm1jdGVvcHMifQ.aaNcz7JoYHRZQSPrN9GiCQ"
-  DB_URL: "mongodb+srv://milinddeore1507_db_user:X1GT98Ff7KksBm2a@milind-deore.nxwjmxz.mongodb.net/yelpcamp?retryWrites=true&w=majority&appName=milind-deore"
+  CLOUDINARY_CLOUD_NAME: 
+  CLOUDINARY_KEY: 
+  CLOUDINARY_SECRET: 
+  MAPBOX_TOKEN: 
+  DB_URL: 
   SECRET: "devopsshack"
 
 ---
